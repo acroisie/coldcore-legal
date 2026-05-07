@@ -1,6 +1,6 @@
-# ColdCore — Legal
+# BreatheToo — Legal
 
-Welcome to the ColdCore legal information pages.
+Welcome to the BreatheToo legal information pages.
 
 ## Documents
 
@@ -9,8 +9,8 @@ Welcome to the ColdCore legal information pages.
 
 ## Contact
 
-**Email**: arnaud.croisier@live.fr
+**Email**: privacy@breathetoo.com
 
 ---
 
-*ColdCore is developed by Arnaud Croisier. This app is not affiliated with or endorsed by any third-party breathing method or organization.*
+*BreatheToo is developed by Arnaud Croisier. This app is not affiliated with or endorsed by any third-party breathing method or organization.*

@@ -1,10 +1,10 @@
-# ColdCore — Your Privacy Choices
+# BreatheToo — Your Privacy Choices
 
 **Last updated: April 15, 2026**
 
 ## Your Data, Your Control
 
-ColdCore is designed with privacy at its core. All your data stays on your device and in your personal iCloud account. Here are the choices you have regarding your data.
+BreatheToo is designed with privacy at its core. All your data stays on your device and in your personal iCloud account. Here are the choices you have regarding your data.
 
 ## What You Can Control
 
@@ -20,8 +20,8 @@ ColdCore is designed with privacy at its core. All your data stays on your devic
 
 | Choice | How | What happens |
 |---|---|---|
-| **Enable Apple Health** | Profile tab > Apple Health toggle | ColdCore writes mindful minutes and cold exposure sessions to Apple Health. |
-| **Disable Apple Health** | Same toggle, turn off | ColdCore stops writing to Apple Health. Existing Health data is not deleted (managed by Apple Health). |
+| **Enable Apple Health** | Profile tab > Apple Health toggle | BreatheToo writes mindful minutes and cold exposure sessions to Apple Health. |
+| **Disable Apple Health** | Same toggle, turn off | BreatheToo stops writing to Apple Health. Existing Health data is not deleted (managed by Apple Health). |
 
 ### Session Data
 
@@ -29,7 +29,7 @@ ColdCore is designed with privacy at its core. All your data stays on your devic
 |---|---|---|
 | **Delete a session** | History tab > swipe left on a session | Session is removed from your device and iCloud. |
 | **Delete all data** | Uninstall the app | All local data is removed. |
-| **Delete iCloud data** | Settings > Apple ID > iCloud > Manage Storage > ColdCore | Removes all synced data from iCloud. |
+| **Delete iCloud data** | Settings > Apple ID > iCloud > Manage Storage > BreatheToo | Removes all synced data from iCloud. |
 
 ### Profile
 
@@ -74,8 +74,8 @@ Since all data is stored in your personal iCloud account and we have no access t
 
 If you have questions about your privacy choices, contact us at:
 
-**Email**: arnaud.croisier@live.fr
+**Email**: privacy@breathetoo.com
 
 ---
 
-*ColdCore is developed by Arnaud Croisier. This app is not affiliated with or endorsed by any third-party breathing method or organization.*
+*BreatheToo is developed by Arnaud Croisier. This app is not affiliated with or endorsed by any third-party breathing method or organization.*

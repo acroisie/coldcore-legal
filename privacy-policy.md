@@ -1,10 +1,10 @@
-# ColdCore — Privacy Policy
+# BreatheToo — Privacy Policy
 
 **Last updated: April 15, 2026**
 
 ## Overview
 
-ColdCore is a breathing and cold exposure training app developed by Arnaud Croisier. Your privacy is important to us. This policy explains what data we collect, how we use it, and your rights.
+BreatheToo is a breathing and cold exposure training app developed by Arnaud Croisier. Your privacy is important to us. This policy explains what data we collect, how we use it, and your rights.
 
 ## Data We Collect
 
@@ -67,7 +67,7 @@ We do **not** share, sell, or transfer your personal data to any third party. We
 
 ## Tracking
 
-ColdCore does **not** track you.
+BreatheToo does **not** track you.
 
 - No device identifiers collected
 - No location data collected
@@ -80,7 +80,7 @@ ColdCore does **not** track you.
 | Right | How to exercise |
 |---|---|
 | **Delete local data** | Uninstall the app |
-| **Delete iCloud data** | Settings > Apple ID > iCloud > Manage Storage > ColdCore |
+| **Delete iCloud data** | Settings > Apple ID > iCloud > Manage Storage > BreatheToo |
 | **Sign out** | Profile tab > Sign Out |
 | **Export health data** | Via Apple Health app |
 | **Disable health sharing** | Profile tab > Apple Health toggle |
@@ -89,7 +89,7 @@ For more details on managing your data, see our [Privacy Choices](privacy-choice
 
 ## Children's Privacy
 
-ColdCore does not knowingly collect data from children under 13. The app does not contain age-restricted content.
+BreatheToo does not knowingly collect data from children under 13. The app does not contain age-restricted content.
 
 ## Changes to This Policy
 
@@ -99,8 +99,8 @@ We may update this policy from time to time. The latest version will always be a
 
 If you have questions about this privacy policy, contact us at:
 
-**Email**: arnaud.croisier@live.fr
+**Email**: privacy@breathetoo.com
 
 ---
 
-*ColdCore is developed by Arnaud Croisier. This app is not affiliated with or endorsed by any third-party breathing method or organization.*
+*BreatheToo is developed by Arnaud Croisier. This app is not affiliated with or endorsed by any third-party breathing method or organization.*
